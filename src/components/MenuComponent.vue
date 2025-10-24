@@ -9,7 +9,16 @@
                 <router-link to="/cine">  Cine  </router-link>
             </li>
             <li>
-                <router-link to="/musica">Música</router-link>
+                <router-link to="/musica">  Música  </router-link>
+            </li>
+            <li>
+                <router-link to="/ciclovida">  Ciclo vida  </router-link>
+            </li>
+            <li>
+                <router-link to="/directivas">  Directivas</router-link>
+            </li>
+            <li>
+                <router-link to="/parimpar">  Par/Impar</router-link>
             </li>
         </ul>
     </div>
