@@ -20,6 +20,12 @@
             <li>
                 <router-link to="/parimpar">  Par/Impar</router-link>
             </li>
+            <li>
+                <router-link to="/propiedadconmutada">  Propiedad Conmutada</router-link>
+            </li>
+            <li>
+                <router-link to="/metodosglobales">Metodos Globales</router-link>
+            </li>
         </ul>
     </div>
 </template>
@@ -33,5 +39,6 @@
 <style>
     ul#menu li {
         display: inline;
+        margin: 10px;
     }
 </style>
